@@ -1,21 +1,22 @@
 {
   "name": "node_server",
   "version": "1.0.0",
-  "description": "nod 용\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Z\u001b[Z\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[웹서버용node project",
+  "description": "for_renewal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm install express --save"
   },
   "repository": {
     "type": "git",
-    "url": "\u001b[A\u001b[D\u001b[B"
+    "url": "git+https://github.com/estrella-kim/node_server.git"
   },
   "author": "estrella-kim",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estrella-kim/node_server/issues"
+  },
+  "homepage": "https://github.com/estrella-kim/node_server#readme",
   "dependencies": {
     "express": "^4.16.2"
-  },
-  "devDependencies": {
-    "nodemon": "^1.12.7"
   }
 }
